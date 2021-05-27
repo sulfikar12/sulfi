@@ -1,0 +1,28 @@
+.header{
+    width: 100%;
+    height: 150px;
+    background: chartreuse;
+}
+.left-body{
+    width: 20%;
+    height: 400px;
+    background: cornsilk;
+    float: left;
+    
+}
+.main-body{
+    width: 100%;
+    height: 400px;
+    background: darkcyan;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    background: darkorchid;
+
+
+}
+body{
+    margin: 0%;
+
+}

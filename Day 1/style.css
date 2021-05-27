@@ -1,0 +1,36 @@
+
+.outerbox{
+    background: chartreuse;
+    width: 100%;
+    height: 500px;
+    padding: 10px;
+}
+.box1{
+    background: chocolate;
+    height: 40%;
+    width: 30%;
+float: left;
+margin: 10px;
+}
+.box2{
+    background: rgb(95, 17, 197);
+    height: 40%;
+    width: 30%;
+    float: left;
+    margin: 10px;
+
+}
+.box3{
+    background:yellow;
+    height: 40%;
+    width: 30%;
+float: left;
+margin: 10px;
+}
+.box4{
+    background: cyan;
+    height: 40%;
+    width: 30%;
+float: left;
+margin: 10px;
+}

@@ -1,0 +1,103 @@
+.body{
+    width: 100%;
+    height: 900px;
+
+
+}
+.header{
+    width: 100%;
+    height: 50px;
+    
+}
+
+.logo{
+    width: 100px;
+    padding-left: 57px;
+    padding-top: 10px;
+}
+.head-right{
+    width: 13%;
+    float: right;
+    color: blue;
+    padding-top: 16px;
+    
+}
+.body-top{
+    width: 100%;
+    height: 128px;
+    margin-top: -21px;
+}
+.heading{
+    text-align: center;
+}
+.p1{
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.left-body{
+    width: 50%;
+    height: 320px;
+    float: left;
+}
+
+.right-body{
+    width: 50%;
+    height: 320px;
+    margin-left: 50%;
+}
+.heading2{
+    padding-left: 73px;
+}
+.p2{
+    font-style: italic;
+    padding-left: 73px;
+
+}
+.p3{
+padding-left: 73px;
+}
+.list{
+    padding-left: 76px;
+}
+.image{
+    width: 80%;
+    height: 97%;
+
+}
+.box{
+    margin-left: 94px;
+    width: 300px;
+    height: 31px;
+    margin-top: 12px;
+}
+#text-space{
+    margin-left: 97px;
+    width: 83%;
+    height: 78px;
+    margin-top: 10px;
+
+}
+#submit-button{
+    background: #3fbbc0;
+    border: 0;
+    padding: 10px 35px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+    margin-left: 42%;
+    margin-top: 20px;
+}
+.bottem-head{
+    background: aliceblue;
+}
+body{ 
+    margin: 0%;
+}
+
+
+
+
+
+    
+

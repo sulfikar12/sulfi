@@ -1,0 +1,16 @@
+div{
+    height: 100px;
+    width: 500px;
+    background-color: burlywood;
+    border-style: groove;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    border-width: 30px;
+    outline: yellow solid 10px;
+}
+h1{
+    color: chartreuse;
+    text-align: center;
+    text-shadow: 3px 3px;
+}

@@ -1,0 +1,69 @@
+.main-body{
+    width: 100%;
+    height: 800px;
+}
+.header{
+    width: 83%;
+    height: 100px;
+    background-color:white;
+    margin-left: 17%;
+
+
+}
+.left-body{
+    width: 17%;
+    height: 800px;
+    background-color: white;
+    margin-top: -100px;
+    float: left;
+}
+.right-body{
+    width: 83%;
+height:700px;
+background-color:#e6e6da;
+margin-left: 17%;
+}    
+.logo {  
+     width: 100px;
+padding-left: 60px;
+
+
+}
+.buttons{
+    width: 227px;
+    height: 38px;
+    font-size: 14px;
+    border: none;
+    background: white;
+    cursor: pointer;
+}
+.main-button{
+width: 227px;
+height: 38px;
+font-weight: bold;
+font-size: 14px;
+border: none;
+background: white;
+cursor: pointer;
+}
+.buttons:hover{
+    background:rgb(212, 204, 204);
+}
+.main-button:hover{
+    background :rgb(212, 204, 204);
+}
+.search-bar{
+    width: 550px;
+    height: 29px;
+    margin-left: 21%;
+    margin-top: 13px;
+    font-size: 16px;
+    padding-left: 20px;
+    float: left;
+}
+.search-logo{
+    margin-left: 117px;
+    height: 36px;
+    margin-top: 13px;
+    width: 38px;
+}
